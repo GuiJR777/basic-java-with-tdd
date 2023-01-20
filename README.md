@@ -27,6 +27,8 @@ calcule a quantidade de salários mínimos esse usuário ganha e imprima o resul
 6. Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu
 antecessor e seu sucessor.
 
+7. Validador de CPF Brasileiro
+
 
 ### JUnit Tips
 1. Nomear a classe de teste com o mesmo nome da classe a ser testada e acressertar Test. Ex: Para testar a classe CalculadoraEscolar crie a classe CalculadoraEscolarTest

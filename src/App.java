@@ -1,8 +1,9 @@
-import main.java.PartsSeller;
+import main.java.CPF;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        PartsSeller partsSeller = new PartsSeller();
-        partsSeller.main(args);
+        CPF cpf = new CPF("12345678910");
+
+        System.out.println(cpf.isValid());
     }
 }
